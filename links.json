@@ -1,0 +1,12 @@
+{
+  "allcoin" : [
+    {
+      "id" : "litecoin",
+      "link" : "http://ya.ru"
+    },
+    {
+      "id": "ethereum",
+      "link": "https://google.com"
+    }
+  ]
+}
