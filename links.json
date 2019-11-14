@@ -1,1 +1,1 @@
-{"allcoin":[{"id": "litecoin","link": "http://ya.ru"},{"id": "ethereum","link": "https://google.com"}]}
+{"allcoin":{"LTC": "http://ya.ru","ETH": "https://google.com"},"default": "https://toshiba.com"}
